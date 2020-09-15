@@ -1,0 +1,914 @@
+
+<!DOCTYPE html>
+
+<html lang="ru-RU">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#fff" />
+    <meta name="msapplication-navbutton-color" content="#fff" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="keywords" content="Красный Север, Вологодская областная газета">
+    <meta name="description" content="Красный Север.">
+    <meta property="og:locale" content="ru_RU" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Если енот оказался не тот" />
+    <meta property="og:image" content="https://www.krassever.ru/statics/thumbs/840x560/f9a-291enot-84056080.jpg" />
+    <meta property="og:description" content="Красный Север." />
+    <meta property="og:url" content="https://www.krassever.ru/article?alias=yesli-yenot-okazalsya-ne-tot" />
+    <meta property="og:site_name" content="«Красный Север»" />
+    <meta name="csrf-param" content="_csrf-news-website">
+    <meta name="csrf-token" content="ek5HN09ZYV8lJD1VYgNQPDkEF0IOFDYFID8hZDcvLwoufCBgeAwxEA==">
+    <title>Если енот оказался не тот</title>
+    <link href="/css/site_vendor.min.css?v=1576748162" rel="stylesheet">
+<link href="/css/site.css?v=1500554690" rel="stylesheet">
+<link href="/assets/7d230091/css/comment.css?v=1499206465" rel="stylesheet">
+<link href="/assets/e74578d2/authchoice.css?v=1499206286" rel="stylesheet">
+</head>
+
+<body>
+
+<script type="text/javascript">    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45151203 = new Ya.Metrika({
+                    id:45151203,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");</script>    <!-- Yandex.Metrika counter -->
+    <noscript><div><img src="https://mc.yandex.ru/watch/45151203" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    <div id="site">
+        <header>
+	<nav class="container navbar">
+		<a id="menu-toggle" href="javascript:void(0);" title="Показать меню"><i class="fa fa-bars"></i></a>
+		<ul id="menu">
+											<li>
+					<a href="#" title="Главное">
+						<span>Главное</span>
+													<span class="caret down"></span>
+											</a>
+											<div class="sub-menu">
+							<ul class="container">
+																	<li><a href="/rubric/politics" title="Политика">Политика</a></li>
+																	<li><a href="/rubric/economics" title="Экономика">Экономика</a></li>
+																	<li><a href="/rubric/society" title="Общество">Общество</a></li>
+																	<li><a href="/rubric/сulture" title="Культура">Культура</a></li>
+																	<li><a href="/rubric/incidents" title="Происшествия">Происшествия</a></li>
+																	<li><a href="/rubric/sport" title="Спорт">Спорт</a></li>
+																	<li><a href="/category/photo" title="Фоторепортаж">Фоторепортаж</a></li>
+																	<li><a href="/category/video" title="Видео">Видео</a></li>
+																	<li><a href="/mark/only-site" title="Только на сайте">Только на сайте</a></li>
+															</ul>
+						</div>
+									</li>
+											<li>
+					<a href="#" title="Спецпроекты">
+						<span>Спецпроекты</span>
+													<span class="caret down"></span>
+											</a>
+											<div class="sub-menu">
+							<ul class="container">
+																	<li><a href="/category/100-years" title="К 100-летию «Красного Севера»">К 100-летию «Красного Севера»</a></li>
+																	<li><a href="/category/consumer-club" title="Клуб потребителя">Клуб потребителя</a></li>
+																	<li><a href="/category/medicine" title="Медсовет">Медсовет</a></li>
+																	<li><a href="/rubric/letters" title="Письма">Письма</a></li>
+																	<li><a href="/category/recipes" title="Дачные советы">Дачные советы</a></li>
+																	<li><a href="/category/veterans-voice" title="Голос ветерана">Голос ветерана</a></li>
+																	<li><a href="/category/womens-club" title="Женский клуб">Женский клуб</a></li>
+															</ul>
+						</div>
+									</li>
+											<li>
+					<a href="#" title="О газете">
+						<span>О газете</span>
+													<span class="caret down"></span>
+											</a>
+											<div class="sub-menu">
+							<ul class="container">
+																	<li><a href="/history" title="История">История</a></li>
+																	<li><a href="/redaction" title="Редакция">Редакция</a></li>
+																	<li><a href="/contacts" title="Контакты">Контакты</a></li>
+															</ul>
+						</div>
+									</li>
+											<li>
+					<a href="/advertisers" title="Рекламодателям">
+						<span>Рекламодателям</span>
+											</a>
+									</li>
+											<li>
+					<a href="/subscribe" title="Подписка">
+						<span>Подписка</span>
+											</a>
+									</li>
+											<li>
+					<a href="#" title="Другое">
+						<span>Другое</span>
+													<span class="caret down"></span>
+											</a>
+											<div class="sub-menu">
+							<ul class="container">
+																	<li><a href="/cultural-express" title="Афиша «Культурного экспресса»">Афиша «Культурного экспресса»</a></li>
+																	<li><a href="/KS-live" title="Дополненная реальность «КС Живая газета»">Дополненная реальность «КС Живая газета»</a></li>
+																	<li><a href="/category/pravo-help" title="Правовая помощь">Правовая помощь</a></li>
+															</ul>
+						</div>
+									</li>
+					</ul>
+		<section class="push-right">
+			<form id="headerSearchForm" method="get" action="/search" class="navbar-search">
+        		<div class="append">
+            		<input id="headerSearchInput" type="text" name="keyword">
+            		<button type="submit"><i class="fa fa-search"></i></button>
+        		</div>
+			</form>
+			<a href="https://twitter.com/kras_sever" target="_blank"><i class="fa fa-twitter"></i></a>
+			<a href="https://vk.com/krassever" target="_blank"><i class="fa fa-vk"></i></a>
+		</section>
+	</nav>
+</header>        <main>
+	<div class="container">
+        <section classs="bn-section">
+                    </section>
+		<section id="logo-block">
+	<a id="site-logo" href="/">
+		<figure class="ks-icon">
+			<img src="/statics/layouts/ks-logo.png" alt="Красный Север">
+  			<figcaption><span>Вологодская областная газета. </span><span>Основана в мае 1917 года.</span></figcaption>
+		</figure>
+		<figure class="gerb-icon">
+			<img src="/statics/layouts/gerb.png" alt="Вологда">
+		</figure>
+	</a>
+</section>		<div class="content-wrapper">
+            <div class="content">
+                <ul class="breadcrumb"><li><a href="/">Главное</a></li>
+<li><a href="/release/34-2015">№ 34, 1 апреля, 2015</a></li>
+</ul>                
+<section>
+    <h1>Если енот оказался не тот</h1>
+</section>
+
+<section class="row article-info">
+            <div class="fr article-count-views">
+            <i class="fa fa-eye"></i>&nbsp;<span>2059</span>
+        </div>
+        
+<div id="w0" class="share-buttons fr"><a href="#" class="btn btn-social-icon btn-facebook" onClick="sharePopup('https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-facebook"></i></a><a href="#" class="btn btn-social-icon btn-google-plus" onClick="sharePopup('https://plus.google.com/share?url=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-google-plus"></i></a><a href="#" class="btn btn-social-icon btn-twitter" onClick="sharePopup('https://twitter.com/home?status=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-twitter"></i></a><a href="#" class="btn btn-social-icon btn-pinterest" onClick="sharePopup('http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot&media=https%3A%2F%2Fwww.krassever.ru%2Fstatics%2Fthumbs%2F840x560%2Ff9a-291enot-84056080.jpg&description=');"><i class="fa fa-pinterest"></i></a><a href="#" class="btn btn-social-icon btn-linkedin" onClick="sharePopup('https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-linkedin"></i></a><a href="#" class="btn btn-social-icon btn-vk" onClick="sharePopup('http://vkontakte.ru/share.php?url=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot&image=https%3A%2F%2Fwww.krassever.ru%2Fstatics%2Fthumbs%2F840x560%2Ff9a-291enot-84056080.jpg');"><i class="fa fa-vk"></i></a><a href="#" class="btn btn-social-icon btn-odnoklassniki" onClick="sharePopup('http://www.odnoklassniki.ru/dk?st.cmd=addShare&st.s=1&st._surl=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-odnoklassniki"></i></a></div></section>
+
+<section class="article-header">
+
+    
+            
+	    <article class="item">
+        <div class="preview">
+            <a href="/statics/upload/iblock/f9a/29_1-енот.jpg" data-lightbox="roadtrip" data-title="<br>">
+                <img src="/statics/thumbs/840x560/f9a-291enot-84056080.jpg" alt="statics/upload/iblock/f9a/29_1-енот.jpg">
+            </a>
+                    </div>
+    </article>
+    
+</section>
+
+<section class="inner-content">
+        
+<div><span class="p"><b>Покупка домашнего питомца - это не только праздник для нового владельца и продавца, но и большая ответственность. Прекрасно, когда, говоря правовым языком, между двумя сторонами купли-продажи не возникает каких-либо разногласий. А если клиент предъявляет претензии? Как поступить продавцу и покупателю в спорной ситуации? </b></span></div>
+ 
+<div> 
+  <div><span class="p"><span class="h2">Не разглядела &laquo;спящий&raquo; товар </span></span></div>
+ 
+  <div><span class="p">Вологжанка Светлана Поливанова (фамилия изменена) - большая  любительница домашних животных. В квартире у нее уже живут кот и хорек, но  она давно мечтала о еноте. Это очаровательное животное с озорным характером хорошо поддается дрессировке и отлично ладит с человеком. Если енота выращивать с детства, то из него выходит хороший питомец. </span></div>
+ 
+  <div><span class="p">Светлана нашла такого зверька в одном из зоомагазинов Вологды. Продавцы сказали, что животное привезено из Краснодарского питомника, ему всего полгода и есть паспорт с прививками. Познакомиться поближе покупателю и зверю в магазине не удалось: дабы не нервировать спящего в домике енота, его быстро засунули в переноску и продали новой хозяйке за 30 тысяч рублей. </span></div>
+ 
+  <div><span class="p">- Я была счастлива, пока не разглядела покупку. Оказалось, что это огромный черный енот (точнее, енотиха) в возрасте больше года (по «человеческим» меркам - 16 лет). Какая там дрессировка! Животное ведет себя агрессивно: шипит, бросается на меня, не подпускает к клетке, отказывается от еды. Страшно и за себя, и за других домашних животных, которые живут в соседней комнате, - рассказывает Светлана.</span></div>
+ 
+  <div><span class="p">По словам девушки, паспорт животного вызывает большие сом­нения, а чека на покупку и документов, подтверждающих, что зверь поступил из питомника, в магазине ей не дали. </span></div>
+ 
+  <div><span class="p">- Меня ввели в заблуждение, сообщив, что зверь юный и ручной, - жалуется Светлана. - Я сделала зап­рос в Краснодарский питомник, где мне сообщили, что они поставляют маленьких ручных серебристо-золотистых енотов, а значит, данный товар прибыл не от них. </span></div>
+ 
+  <div><span class="p">Покупательница говорит, что уже привыкла к своей «девочке Еве», прикипела к ней душой и не хочет расставаться с животным. С другой стороны, она боится, что новый питомец может оказаться больным и даже страдать бешенством. </span></div>
+ 
+  <div><span class="p"><span class="h2">У животного - свои повадки</span></span></div>
+ 
+  <div><span class="p">Светлана снова пошла в магазин и попросила работников, чтобы они дали наконец необходимые документы либо вернули часть денег - ведь взрослый дикий зверь стоит гораздо дешевле: не 30 тысяч, а от 3 до 12 тысяч рублей. Однако продавцы на контакт не идут.</span></div>
+ 
+  <div><span class="p">- Это ложь и шантаж, - возражает заведующий магазином. По его словам, енота девушке продало частное лицо, сотрудница магазина. Изначально она якобы купила зверя для себя, и лишь начавшаяся аллергия вынудила работницу поместить зверя на передержку в магазин и подать объявление о продаже на один из рекламных сайтов. </span></div>
+ 
+  <div><span class="p">- Мы не говорили покупательнице, что зверь ручной, хотя он ел с руки у нашего продавца, - опровергает обвинения руководитель торговой точки. - Скорее всего, Светлана просто не знакома с повадками енотов и не умеет с ними обращаться. Мы готовы забрать у нее животное, но она его не отдает. По словам заведующего, покупательница заблуждается и насчет денег: за 30 тысяч рублей она приобрела и зверя, и клетку (клетка стоит 8 тысяч рублей).</span></div>
+ 
+  <div><span class="p">- Скорее всего, это американский енот-полоскун. И без сомнения, взрослая особь, - прокомментировала ведущий специалист облохотдепартамента Элла Мазурец. - Именно сейчас, в феврале-марте, у этих животных происходит гон (или брачный период), когда они особенно агрессивны. </span></div>
+ 
+  <div><span class="p">Элла Мазурец посоветовала Светлане для начала показать енота ветеринару. Доктор определит, здоров ли зверь, а дальше собственник решит сам - стоит ли держать дома дикое животное.</span></div>
+ 
+  <div><span class="p">- Енотам для жизни нужна естественная среда обитания, а в замкнутом пространстве они ведут себя, как правило, воинственно, враждебно. Не исключено, что рано или поздно, вне зависимости от возраста и «воспитания», зверь проявит свои инстинкты, - добавляет эксперт. </span></div>
+ 
+  <div><span class="p">Но животное постепенно привыкает к новой среде обитания, на заботу хозяйки отвечает любовью и уже берет корм из ее рук. </span></div>
+ 
+  <div><span class="p"><span class="h2">Не хочу прощать обман! </span></span></div>
+ 
+  <div><span class="p">Тем не менее Светлана решила не прощать продавцу обман, требовать от него предоставления всех необходимых документов и соразмерного уменьшения цены живого товара. Закон «О защите прав потребителей» предоставляет ей такое право. </span></div>
+ 
+  <div><span class="p">- В ситуации, скорее всего, придется разбираться суду, - считают специалисты общества по защите прав потребителей. - Если факт покупки не был удостоверен договором комиссии, кассовым, товарным чеком либо другим документом, то покупательнице нужно найти свидетелей, которые могут подтвердить, что енот был приобретен у юридического лица, то есть в магазине и от имени магазина. Информация о том, что торговля велась от частного лица, Светлане не была предоставлена, таким образом, ее изначально ввели в заблуждение. Кроме того, у магазина должны быть документы, свидетельствующие, на каком основании товар был взят на содержание. </span></div>
+ 
+  <div><span class="p">Но на претензию, составленную покупательницей, торговое предприятие не отреагировало, и Светлана Поливанова подала исковое заявление в суд. На первое его заседание представители торгующей организации не явились.  Если ответчики его вновь проигнорируют, у судьи есть все основания принять заочное решение. </span><span class="p"><hr/></span><span class="p"><span class="p"><span class="h2">Что нужно знать при покупке живого товара? </span></span> 
+      <div> 
+        <div><span class="p">Информация о животных и растениях, предлагаемых к продаже, должна содержать их видовое название, сведения об особенностях содержания и разведения.</span></div>
+       
+        <div><span class="p">Вместе с товаром покупателю передаются товарный чек, подписанный лицом, непосредственно осуществляющим продажу, в котором указывается видовое название и количество животных или растений, наименование продавца, дата продажи, цена. </span></div>
+       
+        <div><span class="p">Покупателю должна быть предоставлена ветеринарная справка, удостоверяющая клиническое здоровье животного. В соответствии со ст. 4 Закона РФ «О ветеринарии», юридические и физические лица, ведущие ветеринарную деятельность, подконтрольны государственной ветслужбе.</span></div>
+       
+        <div><span class="p">Если будет установлено, что животное находится в магазине незаконно, юридическое лицо может быть оштрафовано на сумму до 50 тысяч рублей. Оставление енота не для продажи, а для передержки в магазине, если это приносит вред животному, можно расценить как издевательство над ним. Уголовный кодекс РФ предусматривает наказание за жестокое обращение с животными в виде штрафа до 80 тысяч рублей либо обязательными работами до 360 часов, либо исправительными работами на срок до одного года, либо арестом на срок до шести месяцев.</span></div>
+       </div>
+     </span></div>
+ </div>
+ </section>
+
+<section class="line-items atricle-tags">
+
+    
+<div id="w1" class="share-buttons fr"><a href="#" class="btn btn-social-icon btn-facebook" onClick="sharePopup('https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-facebook"></i></a><a href="#" class="btn btn-social-icon btn-google-plus" onClick="sharePopup('https://plus.google.com/share?url=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-google-plus"></i></a><a href="#" class="btn btn-social-icon btn-twitter" onClick="sharePopup('https://twitter.com/home?status=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-twitter"></i></a><a href="#" class="btn btn-social-icon btn-pinterest" onClick="sharePopup('http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot&media=https%3A%2F%2Fwww.krassever.ru%2Fstatics%2Fthumbs%2F840x560%2Ff9a-291enot-84056080.jpg&description=');"><i class="fa fa-pinterest"></i></a><a href="#" class="btn btn-social-icon btn-linkedin" onClick="sharePopup('https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-linkedin"></i></a><a href="#" class="btn btn-social-icon btn-vk" onClick="sharePopup('http://vkontakte.ru/share.php?url=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot&image=https%3A%2F%2Fwww.krassever.ru%2Fstatics%2Fthumbs%2F840x560%2Ff9a-291enot-84056080.jpg');"><i class="fa fa-vk"></i></a><a href="#" class="btn btn-social-icon btn-odnoklassniki" onClick="sharePopup('http://www.odnoklassniki.ru/dk?st.cmd=addShare&st.s=1&st._surl=https%3A%2F%2Fwww.krassever.ru%2Farticle%2Fyesli-yenot-okazalsya-ne-tot');"><i class="fa fa-odnoklassniki"></i></a></div>
+        
+</section>
+
+<section class="article-comments">
+    <div class="comment-wrapper" id="comment-widget-wrapper">
+        <div class="comments row" id="2166b3d457968">
+    <div class="col-md-12 col-sm-12">
+        <div class="title-block">
+            <h3 class="h3-body-title">
+                Комментарии (0)            </h3>
+            <div class="title-separator"></div>
+        </div>
+        <ol id="w3" class="comments-list"><div class="empty"></div></ol>                    <div class="text-center">Войти через социальные сети:</div>
+            <div id="w4" class="text-center"><ul class="auth-clients"><li><a class="vkontakte auth-link" href="/auth?authclient=vkontakte" title="VKontakte"><span class="auth-icon vkontakte"></span></a></li><li><a class="facebook auth-link" href="/auth?authclient=facebook" title="Facebook" data-popup-width="860" data-popup-height="480"><span class="auth-icon facebook"></span></a></li><li><a class="google auth-link" href="/auth?authclient=google" title="Google"><span class="auth-icon google"></span></a></li><li><a class="twitter auth-link" href="/auth?authclient=twitter" title="Twitter"><span class="auth-icon twitter"></span></a></li></ul></div>            </div>
+</div>    </div>
+</section>            </div>
+                            <aside>
+                                            
+<section class="aside-news">
+    <div class="block-title border-top">
+        <h3 class="upper"><a href="/news" title="Новости">Новости</a></h3>
+    </div>
+    <div class="sidebar-reporter">
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 17:22</span>
+                                                <a class="aside-news-title" href="/news/rukovoditel-rosleskhoza-vysoko-otsenil-rabotu-po-sokhraneniyu-lesov-na-vologodchine">Руководитель Рослесхоза высоко оценил работу по сохранению лесов на Вологодчине</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 16:22</span>
+                                                <a class="aside-news-title" href="/news/v-vologdskoy-oblasti-na-tret-vyroslo-chislo-zhiteley-poluchayushchikh-vysokotekhnologichnuyu-medpomoshch">В Вологдской области на треть выросло число жителей, получающих высокотехнологичную медпомощь</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 16:04</span>
+                                                <a class="aside-news-title" href="/news/na-vologodchine-proshli-s-yemki-fil-ma-dlya-telekanala-kul-tura">Съемки фильма для телеканала «Культура» прошли на Вологодчине </a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 15:17</span>
+                                                <a class="aside-news-title" href="/news/srok-sdachi-foka-v-tonshalovo-perenesli-na-sleduyushchiy-god">Срок сдачи ФОКа в Тоншалово перенесли на следующий год</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 14:47</span>
+                                                <a class="aside-news-title" href="/news/dorogu-irdomatka-romanda-polnost-yu-otremontirovali">Дорогу Ирдоматка-Романда полностью отремонтировали</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 13:53</span>
+                                                <a class="aside-news-title" href="/news/sel-skokhozyaystvennaya-yarmarka-proydet-v-vologde-19-sentyabrya">Сельскохозяйственная ярмарка пройдет в Вологде 19 сентября </a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 12:43</span>
+                                                <a class="aside-news-title" href="/news/v-vologodskoy-oblasti-za-sutki-vyyavleno-40-novykh-sluchayev-zabolevaniya-koronavirusom">В Вологодской области за сутки выявлено 40 новых случаев заболевания коронавирусом</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 11:43</span>
+                                                <a class="aside-news-title" href="/news/v-vologodskoy-oblasti-mogut-nachat-vydavat-detyam-sirotam-zhilishchnyye-sertifikaty">В Вологодской области планируют выдавать детям-сиротам жилищные сертификаты</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 11:15</span>
+                                                <a class="aside-news-title" href="/news/30-planshetnykh-komp-yuterov-peredali-v-cherepovetskiye-shkoly">30 планшетных компьютеров передали в череповецкие школы</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 10:03</span>
+                                                <a class="aside-news-title" href="/news/boleye-100-starykh-okon-zamenili-v-kaduyskoy-shkole">Более 100 старых окон заменили в кадуйской школе</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 09:26</span>
+                                                <a class="aside-news-title" href="/news/v-chetyrekh-shkolakh-vologdy-ustanovili-teplovizory">В четырех школах Вологды установили тепловизоры</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">11.09.2020 07:59</span>
+                                                <a class="aside-news-title" href="/news/na-vologodchine-vnov-proydet-festival-sochineniy-rusfest">На Вологодчине вновь пройдет фестиваль сочинений «РусФест»</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 17:42</span>
+                                                <a class="aside-news-title" href="/news/na-vologodchine-moderniziruyut-sya-aeroporty-vologdy-cherepovtsa-i-velikogo-ustyuga">На Вологодчине модернизируются аэропорты Вологды, Череповца и Великого Устюга</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 17:06</span>
+                                                <a class="aside-news-title" href="/news/v-oblastnoy-stolitse-nagradili-politseyskikh-spasshikh-utopavshuyu-v-bolote-devushku">В областной столице наградили полицейских, спасших тонувшую в болоте девушку </a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 16:04</span>
+                                                <a class="aside-news-title" href="/news/v-vologodskom-gosuniversitete-otkroyet-sya-inklyuzivnyy-tsentr-s-nastol-nymi-ig">В Вологодском госуниверситете откроется инклюзивный центр с настольными спортивными играми</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 15:04</span>
+                                                <a class="aside-news-title" href="/news/studenty-vologodskikh-kolledzhey-i-tekhnikumov-uchastvuyut-v-finale-natsional-nogo-chempionata-molodyye-pro">Студенты вологодских колледжей и техникумов участвуют в финале чемпионата «Молодые профессионалы»</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 12:15</span>
+                                                <a class="aside-news-title" href="/news/vologodskaya-oblast-stala-liderom-v-szfo-po-chislu-vyzdorovevshikh-ot-koronavirusa">Вологодская область стала лидером в СЗФО по числу выздоровевших от коронавируса</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 11:37</span>
+                                                <a class="aside-news-title" href="/news/v-vologodskoy-oblasti-za-sutki-vyyavleno-37-novykh-sluchayev-zabolevaniya-koronavirusom-2">В Вологодской области за сутки выявлено 37 новых случаев заболевания коронавирусом</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 11:20</span>
+                                                <a class="aside-news-title" href="/news/s-14-sentyabrya-zhiloy-fond-vologdy-i-cherepovtsa-nachnut-podklyuchat-k-otopleniyu">С 14 сентября жилой фонд Вологды и Череповца начнут подключать к отоплению</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 10:45</span>
+                                                <a class="aside-news-title" href="/news/itogi-olimpiady-shkol-nikov-umniki-i-umnitsy-vologodchiny-podvedut-v-eti-vykhodnyye">Итоги олимпиады школьников «Умники и умницы Вологодчины» подведут в эти выходные</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 10:10</span>
+                                                <a class="aside-news-title" href="/news/v-vologodskikh-kafe-i-restoranakh-strogo-soblyudayut-trebovaniya-rospotrebnadzora">В вологодских кафе и ресторанах строго следят за соблюдением требований Роспотребнадзора </a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">10.09.2020 09:14</span>
+                                                <a class="aside-news-title" href="/news/v-vologodskoy-oblasti-snimayet-sya-kino-pro-khudozhnika-vasiliya-kandinskogo">В Вологодской области снимается кино про художника Василия Кандинского</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 17:39</span>
+                                                <a class="aside-news-title" href="/news/v-cherepovtse-startovala-elektronnaya-registratsiya-na-kross-natsii">В Череповце стартовала электронная регистрация на «Кросс нации»</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 16:54</span>
+                                                <a class="aside-news-title" href="/news/v-vologde-polnost-yu-zavershen-i-otkryt-avtomobil-nyy-obkhod-goroda">В Вологде полностью завершен и открыт автомобильный обход города</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 15:32</span>
+                                                <a class="aside-news-title" href="/news/polpred-prezidenta-aleksandr-gutsan-pribyl-s-rabochim-vizitom-v-vologodskuyu-oblast">Губернатор Вологодской области рассказал полпреду Президента о развитии экономики региона в постпандемический период</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 15:05</span>
+                                                <a class="aside-news-title" href="/news/u-peshekhodnykh-perekhodov-poyavilis-preduprezhdayushchiye-nadpisi">У пешеходных переходов в Череповце появились предупреждающие надписи</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 14:45</span>
+                                                <a class="aside-news-title" href="/news/vologodskiye-molochnyye-produkty-udostoyeny-zolotykh-medaley-na-vystavke-agrorus-2020">Вологодские молочные продукты удостоены золотых медалей на выставке «АГРОРУСЬ-2020»</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 13:35</span>
+                                                <a class="aside-news-title" href="/news/vyshku-sotovoy-svyazi-postroili-v-totemskoy-derevne">Вышку сотовой связи построили в тотемской деревне</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 13:30</span>
+                                                <a class="aside-news-title" href="/news/zhiteli-yeshche-chetyrekh-afrikanskikh-stran-budut-yest-vologodskoye-morozhenoye">Жители еще четырех африканских стран будут есть вологодское мороженое</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 12:03</span>
+                                                <a class="aside-news-title" href="/news/vybory-v-yedinyy-den-golosovaniya-proydut-v-22-munitsipal-nykh-obrazovaniyakh-vologodchiny">Выборы в единый день голосования пройдут в 22 муниципальных образованиях Вологодской области</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 11:32</span>
+                                                <a class="aside-news-title" href="/news/v-vologodskoy-oblasti-za-sutki-vyyavleno-41-novyy-sluchay-zabolevaniya-koronavirusom">В Вологодской области за сутки выявлено 41 новый случай заболевания коронавирусом</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 11:14</span>
+                                                <a class="aside-news-title" href="/news/nazvany-pobediteli-konkursa-serebryanyy-merkuriy-2020">Названы победители конкурса «Серебряный Меркурий-2020»</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">9.09.2020 10:02</span>
+                                                <a class="aside-news-title" href="/news/vologodchina-podderzhivayet-vserossiyskuyu-aktsiyu-idem-v-kino">Вологодчина поддерживает всероссийскую акцию «Идем в кино»</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 17:30</span>
+                                                <a class="aside-news-title" href="/news/boleye-7-tysyach-zhiteley-oblasti-uzhe-proshli-vaktsinatsiyu-protiv-grippa">Более 7 тысяч жителей области уже прошли вакцинацию против гриппа</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 16:52</span>
+                                                <a class="aside-news-title" href="/news/v-vologodskom-muzeye-semenkovo-vossozdadut-vetryanuyu-shatrovuyu-mel-nitsu-19-veka"> В Вологодском музее «Семенково» воссоздадут ветряную шатровую мельницу 19 века</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 16:14</span>
+                                                <a class="aside-news-title" href="/news/tantsory-iz-cherepovtsa-vzyali-zoloto-mezhdunarodnogo-blagotvoritel-nogo-festivalya-inclusive-dance">Танцоры из Череповца стали победителями Международного благотворительного фестиваля Inclusive Dance</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 15:35</span>
+                                                <a class="aside-news-title" href="/news/na-vologodchine-startoval-onlayn-konkurs-dlya-muzykantov-mastera-rubtsovskoy-pesni">На Вологодчине стартовал онлайн-конкурс для музыкантов «Мастера Рубцовской песни»</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 14:50</span>
+                                                <a class="aside-news-title" href="/news/rukodeliyu-i-osnovam-parikmakherskogo-dela-obuchat-v-vologodskom-kovorking-tsentre">Рукоделию и основам парикмахерского дела обучат в вологодском коворкинг-центре</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 13:43</span>
+                                                <a class="aside-news-title" href="/news/glavnyye-zakupki-vologodchiny-perenesli-na-elektronnuyu-platformu">Главные закупки Вологодчины перенесли на электронную платформу</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 12:15</span>
+                                                <a class="aside-news-title" href="/news/vologodskiye-zhivotnovody-predstavili-luchshikh-korov-na-vystavke-belyye-nochi-2020">Вологодские животноводы оценили ленинградских коров на выставке «Белые ночи-2020»</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 11:30</span>
+                                                <a class="aside-news-title" href="/news/dve-zhitel-nitsy-velikoustyugskogo-rayona-udostoyeny-zvaniya-narodnyy-master-rossii">Две жительницы Великоустюгского района удостоены звания &quot;Народный мастер России&quot;</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 10:01</span>
+                                                <a class="aside-news-title" href="/news/khokkeynaya-severstal-s-minimal-nym-schetom-obygrala-sibir">Хоккейная «Северсталь» с минимальным счётом обыграла «Сибирь»</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">8.09.2020 09:39</span>
+                                                <a class="aside-news-title" href="/news/biblioteki-mfts-i-statsionarnyye-otdeleniya-kompleksnykh-tsentrov-budut-rabotat-v-obychnom-rezhime">Библиотеки, МФЦ и стационарные отделения комплексных центров будут работать в обычном режиме</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">7.09.2020 18:13</span>
+                                                <a class="aside-news-title" href="/news/unikal-nyy-kokoshnik-mestnoy-krasavitsy-predstavlen-na-vystavke-odnogo-eksponata-v-kirillove">Уникальный кокошник местной красавицы представлен на выставке одного экспоната в Кириллове</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">7.09.2020 17:39</span>
+                                                <a class="aside-news-title" href="/news/vologodskaya-oblast-poluchit-dopolnitel-no-boleye-7-millionov-rubley-na-lekarstva-dlya-l-gotnikov">Вологодская область получит дополнительно более 7 миллионов рублей на лекарства для льготников</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">7.09.2020 17:12</span>
+                                                <a class="aside-news-title" href="/news/vologodskikh-rekonstruktorov-priglashayut-k-uchastiyu-vo-vserossiyskom-konkurse"> Вологодских реконструкторов приглашают к участию во всероссийском конкурсе</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">7.09.2020 16:27</span>
+                                                <a class="aside-news-title" href="/news/v-vologodskoy-oblasti-rasskazali-skol-ko-semey-poluchayut-yezhemesyachnuyu-vyplatu-na-perventsa">В Вологодской области рассказали, сколько семей получают ежемесячную выплату на первенца </a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">7.09.2020 14:55</span>
+                                                <a class="aside-news-title" href="/news/otlozhennyy-v-marte-iz-za-koronavirusa-den-teatra-proydet-v-vologde-28-sentyabrya">Отложенный в марте из-за коронавируса День театра пройдёт в Вологде 28 сентября</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">7.09.2020 14:26</span>
+                                                <a class="aside-news-title" href="/news/za-pervuyu-pyatiletku-muzey-pisatelya-vasiliya-belova-popolnili-boleye-tysyachi-eksponatov">За первую пятилетку музей писателя Василия Белова пополнили более тысячи экспонатов</a>
+            </article>
+                    <article class="item">
+                <span class="aside-news-date">7.09.2020 12:19</span>
+                                                <a class="aside-news-title" href="/news/na-vologodchine-vyberut-luchshiy-sotsial-nyy-biznes-proyekt">На Вологодчине выберут лучший социальный бизнес-проект</a>
+            </article>
+            </div>
+</section>                                            
+<section class="aside-info">
+    <div class="block-title border-top">
+        <h3 class="upper">Информация</h3>
+    </div>
+    <div class="weather-info">
+        <h5 class="end">Погода сегодня</h5>
+        <div class="weather-info-inner">
+            <div class="weather-info-item">
+               <div><b>Вологда</b></div>
+               <div>19:14</div>
+            </div>
+            <div class="weather-info-item">
+                <i class="wi wi-night-rain"></i>
+            </div>
+            <div class="weather-info-item">
+                <span class="weather-info-temp">10&nbsp;&deg;C</span>
+            </div>
+        </div>
+
+    </div>
+            <div class="cb-rate">
+            <h5 class="end">Курс валют ЦБ РФ</h5>
+            <div class="row gutters cb-rate__row">
+                <div class="col-6">
+                    <i class="fa fa-dollar"></i>
+                <div class="cb-rate__inner">
+                    74.8896                </div>
+                </div>
+                <div class="col-6">
+                                        <i class="fa fa-arrow-down"></i>-0.6378                                    </div>
+            </div>
+
+            <div class="row gutters cb-rate__row">
+                <div class="col-6">
+                    <i class="fa fa-euro"></i>
+                    <div class="cb-rate__inner">
+                        88.6768                    </div>
+                </div>
+                <div class="col-6">
+                                            <i class="fa fa-arrow-down"></i>-0.6268                                    </div>
+            </div>
+            <small>Курс валют на 13.09.2020</small>
+        </div>
+        <div class="row gutters">
+        <a class="col-6 preview" href="/archive"><img src="/statics/layouts/archive.png" alt="Архив"></a>
+        <a class="col-6 preview" href="/poster"><img src="/statics/layouts/poster.png" alt="Афиша"></a>
+    </div>
+<!--
+    <div class="preview" style="margin-top:10px;">
+	    <img src="/statics/layouts/poster-ks3.jpg?1">
+    </div>
+-->
+    <div class="preview">
+        <a href="/category/100-years"><img src="/statics/layouts/poster-ks.png" alt="К 100-летию «Красного Севера»"></a>
+    </div>
+    </section>
+                                            
+<section class="aside-journalists">
+    <div class="block-title">
+        <a href="/journalist"><i class="icon-Pencil"></i><h3 class="upper">Блог журналиста</h3></a>
+    </div>
+    <div class="journalist-slider">
+
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-21-1592221564.png" alt="Даниил Зинченко">
+                        </div>
+                        <a href="/journalist/21" class="name">
+                            Даниил Зинченко                                                            <br>фото-корреспондент                                                    </a>
+                        <div class="journalist-soc">
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/belozersk">По Белозерску я мечтал погулять очень давно. Накануне поездки я был в таком предвкушении, что почти не спал. </a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-2-1497908341.png" alt="Ольга Ильинская">
+                        </div>
+                        <a href="/journalist/2" class="name">
+                            Ольга Ильинская                                                    </a>
+                        <div class="journalist-soc">
+                                                            <a href="mailto:iljinskaja@krassever.ru" class="fa fa-envelope" title="iljinskaja@krassever.ru"></a>
+                                                                                                                            <a href="https://vk.com/id138111593"" target="_blank" title="https://vk.com/id138111593" class="fa fa-vk"></a>
+                                                                                                                                <a href="https://www.facebook.com/profile.php?id=100007046329093"" target="_blank" title="https://www.facebook.com/profile.php?id=100007046329093" class="fa fa-facebook"></a>
+                                                                                                                                                                                                            </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/uroven-dopuska-k-lyudyam">Для меня остается загадкой, почему в ситуации, когда требуется притушить негатив, многие (да что там многие - большинство!), напротив, его усиливают? </a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-5-1497908969.png" alt="Владимир Романов">
+                        </div>
+                        <a href="/journalist/5" class="name">
+                            Владимир Романов                                                    </a>
+                        <div class="journalist-soc">
+                                                            <a href="mailto:romanov@krassever.ru" class="fa fa-envelope" title="romanov@krassever.ru"></a>
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/podvodnyy-flot-sukhoputnoy-vologodchiny">Подводные лодки сухопутной Вологодской области - вовсе не миф, и не анекдот. В нашей истории их было не просто много, а очень много. </a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-10-1498651891.png" alt="Светлана Шубина">
+                        </div>
+                        <a href="/journalist/10" class="name">
+                            Светлана Шубина                                                            <br>журналист                                                    </a>
+                        <div class="journalist-soc">
+                                                            <a href="mailto:shubina@krassever.ru" class="fa fa-envelope" title="shubina@krassever.ru"></a>
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/drug-stepey-kalmyk-tozhe-naslyshan-o-vologde">Всегда мечтала побывать в Калмыкии, и вот я здесь. Правда, на цветение тюльпанов, которыми в мае бывает усыпана вся степь, я опоздала. Зато встретила людей, которые даже там читают наш «Красный Север».
+</a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-7-1498742557.png" alt="Виктория Смирнова">
+                        </div>
+                        <a href="/journalist/7" class="name">
+                            Виктория Смирнова                                                            <br>Заместитель редактора                                                    </a>
+                        <div class="journalist-soc">
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/pro-kukly-ili-pochemu-nuzhno-khodit-v-teatr">С детства я очень люблю куклы. Не в том смысле, что я их коллекционирую и шью для них наряды, хотя, когда была маленькой, мастерила одежки пупсикам и куклам из картона. Я люблю кукол, которых оживляют артисты.
+</a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-1-1497905836.png" alt="Дмитрий Погодин">
+                        </div>
+                        <a href="/journalist/1" class="name">
+                            Дмитрий Погодин                                                    </a>
+                        <div class="journalist-soc">
+                                                            <a href="mailto:dv.pogodin@mail.ru" class="fa fa-envelope" title="dv.pogodin@mail.ru"></a>
+                                                                                                                            <a href="https://vk.com/dv_pogodin"" target="_blank" title="https://vk.com/dv_pogodin" class="fa fa-vk"></a>
+                                                                                                                                <a href="https://www.facebook.com/dv.pogodin"" target="_blank" title="https://www.facebook.com/dv.pogodin" class="fa fa-facebook"></a>
+                                                                                                                                                                                                            </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/o-povyshenii-pensionnogo-vozrasta">Повышение пенсионного возраста стало главной темой сегодняшнего дня. И чтобы хоть как-то скрасить настроение в нашем холдинге коллеги стараются все перевести в шутку, звучит смех. Пусть немного и истерический...</a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-14-1497910488.png" alt="Сергей Юров">
+                        </div>
+                        <a href="/journalist/14" class="name">
+                            Сергей Юров                                                            <br>фотокор                                                    </a>
+                        <div class="journalist-soc">
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/trudnaya-doroga-na-mars">Недавний запуск ракеты Falcon Heavy, о котором раструбили мировые СМИ подхлестнул волну интереса к космической гонке России и США. Она продолжается с переменным успехом и далеко не всегда выражается яркой рекламной кампанией вокруг достижений. </a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-9-1497910264.png" alt="Светлана Дамирова">
+                        </div>
+                        <a href="/journalist/9" class="name">
+                            Светлана Дамирова                                                    </a>
+                        <div class="journalist-soc">
+                                                            <a href="mailto:damirova@krassever.ru" class="fa fa-envelope" title="damirova@krassever.ru"></a>
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/komanda-kotoraya-delayet-krasnyy-sever-11">В «Красный Север» я пришла 10 сентября 1995 года. Если говорить точнее, меня буквально привел сюда тогдашний председатель областной организации Союза журналистов России Василий Тимофеевич Невзоров.</a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-12-1497910417.png" alt="Евгений Стариков">
+                        </div>
+                        <a href="/journalist/12" class="name">
+                            Евгений Стариков                                                    </a>
+                        <div class="journalist-soc">
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/komanda-kotoraya-delayet-krasnyy-sever-10">Без преувеличения скажу, что с «Красным Севером» связаны все 45 лет моей жизни. А все потому, что моя бабушка работала в типографии, где печаталась главная областная газета, лично знала и общалась со многими «красносеверцами». </a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-11-1497910364.png" alt="Игорь Митин">
+                        </div>
+                        <a href="/journalist/11" class="name">
+                            Игорь Митин                                                    </a>
+                        <div class="journalist-soc">
+                                                            <a href="mailto:mitin@krassever.ru" class="fa fa-envelope" title="mitin@krassever.ru"></a>
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/komanda-kotoraya-delayet-krasnyy-sever-9">Для меня газета «Красный Север» - большая часть жизни: я, по образованию морской штурман, пришел в редакцию в 1997 году после 14 лет, проведенных на флоте, в морях. Почему вдруг журналистика? </a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-16-1507294082.png" alt="Александр Марюков">
+                        </div>
+                        <a href="/journalist/16" class="name">
+                            Александр Марюков                                                            <br>Выпускающий редактор «Делового вестника»                                                    </a>
+                        <div class="journalist-soc">
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/komanda-kotoraya-delayet-krasnyy-sever-7">В нашем доме, сколько я себя помню, всегда выписывали «Красный Север» и отзывались об этом издании с большим уважением. </a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-6-1497909094.png" alt="Алексей Третьяков">
+                        </div>
+                        <a href="/journalist/6" class="name">
+                            Алексей Третьяков                                                    </a>
+                        <div class="journalist-soc">
+                                                            <a href="mailto:tretyakov@krassever.ru" class="fa fa-envelope" title="tretyakov@krassever.ru"></a>
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/komanda-kotoraya-delayet-krasnyy-sever-4">В газету «Красный Север» я пришел в 2005 году, уже имея за плечами опыт работы в электронных СМИ - на телевидении и радио. </a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-4-1497908768.png" alt="Артём Помялов">
+                        </div>
+                        <a href="/journalist/4" class="name">
+                            Артём Помялов                                                    </a>
+                        <div class="journalist-soc">
+                                                            <a href="mailto:pomyalov@krassever.ru" class="fa fa-envelope" title="pomyalov@krassever.ru"></a>
+                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/komanda-kotoraya-delayet-krasnyy-sever-2">До прихода в «Красный Север» в 2011 году я пять лет работал в череповецкой газете «Голос Череповца». Писал о событиях, которые происходили в городе металлургов, фестивалях, концертах, спортивных мероприятиях, экономике Череповца и многом другом.</a></div>
+                    </div>
+                </div>
+            </article>
+        
+                        
+            <article class="item">
+                <div class="row gutters acenter">
+                    <div class="journalist-part-avatar">
+                        <div class="preview avatar">
+                            <img src="/statics/images/avatar/avatar-3-1497908581.png" alt="Надежда Кузьминская">
+                        </div>
+                        <a href="/journalist/3" class="name">
+                            Надежда Кузьминская                                                            <br>главный редактор                                                    </a>
+                        <div class="journalist-soc">
+                                                            <a href="mailto:kuzminskaya@krassever.ru" class="fa fa-envelope" title="kuzminskaya@krassever.ru"></a>
+                                                                                                                            <a href="https://vk.com/id80005511"" target="_blank" title="https://vk.com/id80005511" class="fa fa-vk"></a>
+                                                                                                                                                                                                                                                                        </div>
+                    </div>
+                    <div class="journalist-part-intro">
+                        <i class="fa fa-quote-right"></i>
+                        <div class="intro"><a href="/journalist/blog/dobro-pozhalovat">Уважаемые посетители сайта! Мы рады приветствовать вас на обновленном Интернет-ресурсе газеты «Красный Север», который, уверены, придется вам по душе, и вы обязательно добавите его в свои закладки.</a></div>
+                    </div>
+                </div>
+            </article>
+            </div>
+</section>
+                                    </aside>
+            		</div>
+	</div>
+</main>        <footer>
+    <div class="container">
+        <div class="row">
+            <div class="redaction-number item">
+                <h6 class="upper">Телефон редакции</h6>
+                <a href="tel:+78172230214"><h2>(8172) 23-02-14</h2></a>
+            </div>
+            <div class="links item">
+                                    <a href="/rubric/politics" title="Политика">Политика</a>
+                                    <a href="/rubric/economics" title="Экономика">Экономика</a>
+                                    <a href="/rubric/society" title="Общество">Общество</a>
+                                    <a href="/rubric/сulture" title="Культура">Культура</a>
+                                    <a href="/rubric/incidents" title="Происшествия">Происшествия</a>
+                                    <a href="/rubric/sport" title="Спорт">Спорт</a>
+                                    <a href="/category/photo" title="Фоторепортаж">Фоторепортаж</a>
+                                    <a href="/category/video" title="Видео">Видео</a>
+                                    <a href="/category/100-years" title="К 100-летию «Красного Севера»">К 100-летию «Красного Севера»</a>
+                                    <a href="/mark/only-site" title="Только на сайте">Только на сайте</a>
+                                    <a href="/category/consumer-club" title="Клуб потребителя">Клуб потребителя</a>
+                                    <a href="/category/medicine" title="Медсовет">Медсовет</a>
+                                    <a href="/rubric/letters" title="Письма">Письма</a>
+                                    <a href="/category/recipes" title="Дачные советы">Дачные советы</a>
+                                    <a href="/category/veterans-voice" title="Голос ветерана">Голос ветерана</a>
+                                    <a href="/category/womens-club" title="Женский клуб">Женский клуб</a>
+                            </div>
+        </div>
+        <div class="row">
+            <div class="other-phones item line-items">
+                <article>
+                    <h6 class="upper">Отдел рекламы</h6>
+                    <a href="tel:+78172720461"><h3>(8172) 72-04-61</h3></a>
+                    <a href="tel:+78172723141"><h3>72-31-41</h3></a>
+                </article>
+                <article>
+                    <h6 class="upper">Отдел подписки</h6>
+                    <a href="tel:+78172721062"><h3>(8172) 72-10-62,</h3></a>
+                    <a href="tel:+78172721370"><h3>72-13-70</h3></a>
+                </article>
+                <article>
+                    <h6 class="upper">Прием обращений от читателей</h6>
+                    <a href="tel:+78172720357"><h3>(8172) 72-03-57,</h3></a>
+                    <a href="mailto:shubina@krassever.ru">shubina@krassever.ru</a>
+                </article>
+            </div>
+            <div class="company item">
+                <h6>&copy; 2007-2017 &laquo;Красный Север&raquo;</h6>
+                <span>
+                    Использование материалов &laquo;Красный Север&raquo; разрешено только при наличии активной ссылки на источник. Все права на картинки и тексты принадлежат их авторам.
+                </span>
+            </div>
+        </div>
+        <address>160000 Вологодская область, г. Вологда ул. Козленская, 33, 3 этаж, e-mail: <a href="mailto:reception@krassever.ru">reception@krassever.ru</a><span class="gik">Создание сайта: <a href="https://gik35.ru/" target="_blank" title="Разработка, создание, комплексная поддержка и продвижение сайтов. Студия web-разработок ГИК">ГИК</a></span></address>
+    </div>
+    <div class="site-parts">
+        <div class="container links">
+            <a href="/about">О газете</a>
+            <a href="/history">История</a>
+            <a href="/redaction">Редакция</a>
+            <a href="/contacts">Контакты</a>
+        </div>
+    </div>
+    <div class="partners">
+        <h5 class="upper">Наши партнеры</h5>
+        <div class="line-items-middle">
+            <a target="_blank" href="http://www.infocentr35.ru/" title="Вологодский информационный центр">
+                <img src="/statics/layouts/partner1.png" alt="ВОИЦ">
+            </a>
+            <a target="_blank" href="http://vologda-oblast.ru" title="Официальный портал Вологодской области">
+                <img src="/statics/layouts/partner2.png" alt="Правительство Вологодской области">
+            </a>
+            <a target="_blank" href="http://vologdaregion.ru" title="Вологда регион">
+                <img src="/statics/layouts/partner3.png" alt="Вологда регион">
+            </a>
+            <a target="_blank" href="http://35tv.ru" title="35 тв">
+                <img src="/statics/layouts/partner4.png" alt="35 тв">
+            </a>
+        </div>
+    </div>
+</footer>    </div>
+    <script src="/js/site_vendor.min.js?v=1499214972"></script>
+<script src="/js/site_app.js?v=1500554674"></script>
+<script src="/js/comments.js?v=1499214972"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#2166b3d457968').comment({"pjaxContainerId":"#comment-pjax-container-w2","formSelector":"#comment-form"});
+jQuery('#w4').authchoice();
+});</script>
+</body>
+
+</html>
